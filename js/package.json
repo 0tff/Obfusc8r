@@ -1,0 +1,6 @@
+{
+  "name": "obfusc8r",
+  "version": "1.0.0",
+  "main": "src/obfuscator.js",
+  "dependencies": {}
+}
